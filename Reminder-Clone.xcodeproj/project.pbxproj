@@ -11,6 +11,7 @@
 		7B33E34F2743834C00AE87CB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B33E34E2743834C00AE87CB /* ContentView.swift */; };
 		7B33E3512743835000AE87CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B33E3502743835000AE87CB /* Assets.xcassets */; };
 		7B33E3542743835000AE87CB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B33E3532743835000AE87CB /* Preview Assets.xcassets */; };
+		7B33E35C2743849C00AE87CB /* ListTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B33E35B2743849C00AE87CB /* ListTypes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		7B33E3502743835000AE87CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B33E3532743835000AE87CB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7B33E3552743835000AE87CB /* Reminder_Clone.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Reminder_Clone.entitlements; sourceTree = "<group>"; };
+		7B33E35B2743849C00AE87CB /* ListTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTypes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				7B33E3502743835000AE87CB /* Assets.xcassets */,
 				7B33E3552743835000AE87CB /* Reminder_Clone.entitlements */,
 				7B33E3522743835000AE87CB /* Preview Content */,
+				7B33E35B2743849C00AE87CB /* ListTypes.swift */,
 			);
 			path = "Reminder-Clone";
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7B33E34F2743834C00AE87CB /* ContentView.swift in Sources */,
+				7B33E35C2743849C00AE87CB /* ListTypes.swift in Sources */,
 				7B33E34D2743834C00AE87CB /* Reminder_CloneApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
